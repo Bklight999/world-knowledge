@@ -5,7 +5,7 @@
 
 <p align="center">
 
-<img src="overview.png" alt="Overview" width="900">
+<img src="overview.jpg" alt="Overview" width="900">
 
 
 </p>
