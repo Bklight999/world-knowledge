@@ -4,8 +4,11 @@
 </p>
 
 <p align="center">
-  <a href="method_figure_v3.pdf"><strong>Method Figure (PDF)</strong></a>
+
+<img src="overview.png" alt="GrAlgoBench Overview" width="900">
+
 </p>
+
 
 <p align="center">
   <object data="method_figure_v3.pdf" type="application/pdf" width="100%" height="700px">
