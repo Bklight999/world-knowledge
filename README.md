@@ -5,16 +5,12 @@
 
 <p align="center">
 
-<img src="overview.png" alt="GrAlgoBench Overview" width="900">
+<img src="overview.png" alt="Overview" width="900">
+
 
 </p>
 
 
-<p align="center">
-  <object data="method_figure_v3.pdf" type="application/pdf" width="100%" height="700px">
-    <p>Preview not supported here. Open <a href="method_figure_v3.pdf">method_figure_v3.pdf</a>.</p>
-  </object>
-</p>
 
 This is a web-agent pipeline for constructing reusable environment-specific knowledge and using it to improve downstream web task execution.
 
