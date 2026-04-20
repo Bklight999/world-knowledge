@@ -1,0 +1,28 @@
+# 敏感文件
+gpt_key.txt
+*.env
+
+# 运行时产物
+pipeline_log/
+output_note/
+output_ans/
+test_data/
+results/
+queue_file/
+plans/
+downloadedFiles/
+DownloadedFiles/
+downloads/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/

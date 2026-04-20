@@ -1,0 +1,64 @@
+Total: 6 clusters, 51 URLs  [SHOW_ALL (< 250 URLs)]  |  per-cluster sizes: [7, 9, 8, 14, 5, 8]
+============================================================
+[Prefix] https://www2024.thewebconf.org  (7/7 URLs)
+https://www2024.thewebconf.org/sponsors/become-a-sponsor  [in:51 out:52 score:67]
+https://www2024.thewebconf.org  [in:51 out:52 score:67]
+https://www2024.thewebconf.org/sponsors/sponsors-and-supporters  [in:51 out:52 score:67]
+https://www2024.thewebconf.org/about/logo  [in:51 out:52 score:67]
+https://www2024.thewebconf.org/about/the-web-conference  [in:51 out:52 score:67]
+https://www2024.thewebconf.org/about/newsletters  [in:51 out:52 score:67]
+https://www2024.thewebconf.org/about/code-of-conduct  [in:51 out:52 score:67]
+============================================================
+[Prefix] https://www2024.thewebconf.org/accepted  (9/9 URLs)
+https://www2024.thewebconf.org/accepted/industry  [in:51 out:52 score:67]
+https://www2024.thewebconf.org/accepted/web4good  [in:51 out:52 score:67]
+https://www2024.thewebconf.org/accepted/phd-symposium  [in:51 out:52 score:67]
+https://www2024.thewebconf.org/accepted/research-tracks  [in:51 out:52 score:67]
+https://www2024.thewebconf.org/accepted/resource  [in:51 out:52 score:67]
+https://www2024.thewebconf.org/accepted/health-day  [in:51 out:52 score:67]
+https://www2024.thewebconf.org/accepted/short-papers  [in:51 out:52 score:67]
+https://www2024.thewebconf.org/accepted/demo  [in:51 out:52 score:67]
+https://www2024.thewebconf.org/accepted/history-web  [in:51 out:52 score:67]
+============================================================
+[Prefix] https://www2024.thewebconf.org/attending  (8/8 URLs)
+https://www2024.thewebconf.org/attending/accommodation  [in:51 out:53 score:67]
+https://www2024.thewebconf.org/attending/participation  [in:51 out:52 score:67]
+https://www2024.thewebconf.org/attending/registration  [in:51 out:52 score:67]
+https://www2024.thewebconf.org/attending/nsf-student-travel-awards  [in:51 out:52 score:67]
+https://www2024.thewebconf.org/attending/venue  [in:51 out:52 score:67]
+https://www2024.thewebconf.org/attending/visa-information  [in:51 out:52 score:67]
+https://www2024.thewebconf.org/attending/checking-in  [in:51 out:52 score:67]
+https://www2024.thewebconf.org/attending/presentation  [in:51 out:52 score:67]
+============================================================
+[Prefix] https://www2024.thewebconf.org/calls  (14/14 URLs)
+https://www2024.thewebconf.org/calls/test-of-time-award  [in:51 out:52 score:67]
+https://www2024.thewebconf.org/calls/workshops  [in:51 out:52 score:67]
+https://www2024.thewebconf.org/calls/health-day  [in:51 out:52 score:67]
+https://www2024.thewebconf.org/calls/history-web  [in:51 out:52 score:67]
+https://www2024.thewebconf.org/calls/artifact-badging  [in:51 out:52 score:67]
+https://www2024.thewebconf.org/calls/phd-symposium  [in:51 out:52 score:67]
+https://www2024.thewebconf.org/calls/demo  [in:51 out:52 score:67]
+https://www2024.thewebconf.org/calls/short-papers  [in:51 out:52 score:67]
+https://www2024.thewebconf.org/calls/tutorials  [in:51 out:52 score:67]
+https://www2024.thewebconf.org/calls/web4good  [in:51 out:52 score:67]
+https://www2024.thewebconf.org/calls/resource  [in:51 out:52 score:67]
+https://www2024.thewebconf.org/calls/emerging-world-symposium  [in:51 out:52 score:67]
+https://www2024.thewebconf.org/calls/research-tracks  [in:51 out:52 score:67]
+https://www2024.thewebconf.org/calls/industry  [in:51 out:52 score:67]
+============================================================
+[Prefix] https://www2024.thewebconf.org/organization  (5/5 URLs)
+https://www2024.thewebconf.org/organization/reviewers-of-various-tracks  [in:51 out:52 score:67]
+https://www2024.thewebconf.org/organization/senior-area-chairs  [in:51 out:52 score:67]
+https://www2024.thewebconf.org/organization/reviewers-of-research-tracks  [in:51 out:52 score:67]
+https://www2024.thewebconf.org/organization/organizing-committee  [in:51 out:52 score:67]
+https://www2024.thewebconf.org/organization/area-chairs  [in:51 out:52 score:67]
+============================================================
+[Prefix] https://www2024.thewebconf.org/program  (8/8 URLs)
+https://www2024.thewebconf.org/program/tutorials  [in:51 out:71 score:72]
+https://www2024.thewebconf.org/program/overview  [in:51 out:52 score:67]
+https://www2024.thewebconf.org/program/awards  [in:51 out:52 score:67]
+https://www2024.thewebconf.org/program/keynotes  [in:51 out:52 score:67]
+https://www2024.thewebconf.org/program/full-schedule  [in:51 out:52 score:67]
+https://www2024.thewebconf.org/program/social-events  [in:51 out:52 score:67]
+https://www2024.thewebconf.org/program/special-days  [in:51 out:52 score:67]
+https://www2024.thewebconf.org/program/workshops  [in:51 out:52 score:67]
