@@ -2,7 +2,7 @@
 <p align="center">
   <strong>📝 Paper: <em>Training LLM Agents for Spontaneous, Reward-Free Self-Evolution via World Knowledge Exploration</em></strong>
   &nbsp;|&nbsp;
-  <a href="[(https://arxiv.org/abs/2604.18131)](https://arxiv.org/abs/2604.18131)" target="_blank" rel="noopener noreferrer">arXiv</a>
+  <a href="https://arxiv.org/abs/2604.18131" target="_blank" rel="noopener noreferrer">arXiv</a>
 </p>
 
 <p align="center">
