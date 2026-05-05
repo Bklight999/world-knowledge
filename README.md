@@ -217,4 +217,9 @@ world-knowledge/
 
 ## Citation
 
-If you use this repository, please cite the accompanying World Knowledge paper.
+@article{zhang2026training,
+  title={Training LLM Agents for Spontaneous, Reward-Free Self-Evolution via World Knowledge Exploration},
+  author={Zhang, Qifan and Ma, Dongyang and Fang, Tianqing and Li, Jia and Tang, Jing and Chen, Nuo and Mi, Haitao and Wang, Yan},
+  journal={arXiv preprint arXiv:2604.18131},
+  year={2026}
+}
