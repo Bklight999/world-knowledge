@@ -217,6 +217,7 @@ world-knowledge/
 
 ## Citation
 
+```bibtex
 @article{zhang2026training,
   title={Training LLM Agents for Spontaneous, Reward-Free Self-Evolution via World Knowledge Exploration},
   author={Zhang, Qifan and Ma, Dongyang and Fang, Tianqing and Li, Jia and Tang, Jing and Chen, Nuo and Mi, Haitao and Wang, Yan},
